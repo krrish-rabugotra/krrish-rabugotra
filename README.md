@@ -1,4 +1,6 @@
 ## Hi there 👋
+## I'm currently learning Python Language
+## You can reach me through my Gmail: krrishk.rabugotra@gmail.com
 
 <!--
 **krrish-rabugotra/krrish-rabugotra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
